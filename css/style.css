@@ -1,0 +1,75 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.anchor{
+    color: black !important;
+}
+.location{
+    background-image: url(office.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 500px;
+}
+.location h1{
+    font-size: 35px;
+    font-weight: 600;
+    margin-top: 10px;
+}
+.location p{
+    font-size: 16px;
+    font-weight: 500;
+}
+.logo-section{
+    background-color: #C8C8C8;
+    height: 80px;
+}
+.logo img{
+    width: 100px;
+    margin-top: 20px;
+}
+.auto{
+    padding: 65px;
+}
+.auto p{
+    font-size: 16px;
+    line-height: 1.6;
+}
+.developer-section{
+    height: 400px;
+    background-color: #E0E0E0;
+}
+.dev h1{
+    font-size: 35px;
+
+}
+.dev{
+    padding: 50px;
+}
+.height img{
+    height: 210px;
+}
+.center{
+    text-align: center;
+}
+.font-size{
+    font-size: 25px;
+    font-weight: 550;
+}
+.power-section h6{
+    margin-top: 20px;
+}
+.content{
+    padding: 0 18px;
+}
+.fa-long-arrow-right:hover{
+    color: white;
+    background-color: #007ACC;
+}
+.last-section{
+    background-color: #1B222C; 
+    height: 600px;
+}
